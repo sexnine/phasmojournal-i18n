@@ -1,0 +1,155 @@
+{
+  "phasmojournal": "Phasmojournal",
+  "game": "Game",
+  "questions": "Questions",
+  "maps": "Maps",
+  "reset": "Reset",
+  "answersEveryone": "Answers Everyone",
+  "answersAlone": "Answers Alone",
+  "ghostName": "Ghost name",
+  "evidence": "Evidence",
+  "emf": "EMF",
+  "fingerprints": "Fingerprints",
+  "writing": "Writing",
+  "ghostOrb": "Ghost orb",
+  "spiritBox": "Spirit Box",
+  "temperature": "Temperature",
+  "objectives": "Objectives",
+  "createRoom": "Create room",
+  "copyLink": "Copy link",
+  "wiki": "Info",
+  "strength": "Strength",
+  "weakness": "Weakness",
+  "ghosts": {
+    "banshee": {
+      "name": "Banshee",
+      "strength": "Only targets one player at a time if they are in the building.",
+      "weakness": "Increased Crucifix radius.",
+      "wikiLink": "https://phasmophobia.fandom.com/wiki/Banshee"
+    },
+    "demon": {
+      "name": "Demon",
+      "strength": "Extremely agressive.  Will hunt earlier and more often.",
+      "weakness": "Using correct Ouija board questions does not drain sanity.",
+      "wikiLink": "https://phasmophobia.fandom.com/wiki/Demon"
+    },
+    "jinn": {
+      "name": "Jinn",
+      "strength": "Moves faster the further away you are from it.",
+      "weakness": "Cutting off the building’s power supply will limit the Jinn’s speed.",
+      "wikiLink": "https://phasmophobia.fandom.com/wiki/Jinn"
+    },
+    "mare": {
+      "name": "Mare",
+      "strength": "More aggressive when the lights in the room are off.  Likes to switch off lights.",
+      "weakness": "More passive when the lights are on.",
+      "wikiLink": "https://phasmophobia.fandom.com/wiki/Mare"
+    },
+    "oni": {
+      "name": "Oni",
+      "strength": "More activity with more than 1 person in the room.  Can throw objects quickly.",
+      "weakness": "Being more active makes it easier to find.",
+      "wikiLink": "https://phasmophobia.fandom.com/wiki/Oni"
+    },
+    "phantom": {
+      "name": "Phantom",
+      "strength": "Looking at the Phantom will reduce your sanity 2x more.",
+      "weakness": "The phantom will be invisible in the photo and dissapear when you take a photo, except during a hunt.",
+      "wikiLink": "https://phasmophobia.fandom.com/wiki/Phantom"
+    },
+    "poltergeist": {
+      "name": "Poltergeist",
+      "strength": "Can throw multiple objects at once.",
+      "weakness": "Ineffective in empty rooms with no throwables.",
+      "wikiLink": "https://phasmophobia.fandom.com/wiki/Poltergeist"
+    },
+    "revenant": {
+      "name": "Revenant",
+      "strength": "2x speed when chasing someone, can freely switch target during chase.",
+      "weakness": "0.5x speed when it's not chasing anyone.",
+      "wikiLink": "https://phasmophobia.fandom.com/wiki/Revenant"
+    },
+    "shade": {
+      "name": "Shade",
+      "strength": "Heavilty reduced activity and hunts with more than 1 person in the room.",
+      "weakness": "Less likely to hunt if players are grouped together.",
+      "wikiLink": "https://phasmophobia.fandom.com/wiki/Shade"
+    },
+    "spirit": {
+      "name": "Spirit",
+      "strength": "None.",
+      "weakness": "Smudge sticks will stop the ghost from hunting for 2x the amount.",
+      "wikiLink": "https://phasmophobia.fandom.com/wiki/Spirit"
+    },
+    "wraith": {
+      "name": "Wraith",
+      "strength": "Won't leave UV footprints when walking in salt, can teleport to a random player's location.",
+      "weakness": "Stepping in salt will increase the ghost's activity.",
+      "wikiLink": "https://phasmophobia.fandom.com/wiki/Wraith"
+    },
+    "yurei": {
+      "name": "Yurei",
+      "strength": "Stronger sanity drain during manifestation.",
+      "weakness": "Using smudge sticks on the ghost will cause it to not wander.",
+      "wikiLink": "https://phasmophobia.fandom.com/wiki/Yurei"
+    },
+    "yokai": {
+      "name": "Yokai",
+      "strength": "Talking near a Yokai will anger it and increase it's chance of attacking.",
+      "weakness": "When hunting, a Yokai can only hear voices close to it.",
+      "wikiLink": "https://phasmophobia.fandom.com/wiki/Yokai"
+    },
+    "hantu": {
+      "name": "Hantu",
+      "strength": "Moves faster in cooler areas.",
+      "weakness": "Moves slower in warmer areas.",
+      "wikiLink": "https://phasmophobia.fandom.com/wiki/Hantu"
+    }
+  },
+  "objectivesList": {
+    "crucifix": {
+      "name": "Crucifix",
+      "fullText": "Prevent the Ghost from hunting with a Crucifix"
+    },
+    "event": {
+        "name": "Event",
+        "fullText": "Have a member of your team witness a Ghost Event"
+    },
+    "motion": {
+        "name": "Motion",
+        "fullText": "Detect a Ghosts presence with a Motion Sensor"
+    },
+    "photo": {
+        "name": "Photo",
+        "fullText": "Capture a photo of the Ghost"
+    },
+    "emf": {
+        "name": "EMF",
+        "fullText": "Find evidence of the paranormal with an EMF Reader"
+    },
+    "smudge": {
+        "name": "Smudge",
+        "fullText": "Cleanse the area near the Ghost using Smudge Sticks"
+    },
+    "candle": {
+        "name": "Candle",
+        "fullText": "Detect a Ghost presence with a Candle"
+    },
+    "salt": {
+        "name": "Salt",
+        "fullText": "Get a Ghost to walk through Salt"
+    },
+    "sanity": {
+        "name": "Sanity",
+        "fullText": "Get an average Sanity below 25%"
+    },
+    "hunt": {
+        "name": "Hunt",
+        "fullText": "Escape the Ghost during a Hunt with no deaths"
+    },
+    "repel": {
+        "name": "Repel",
+        "fullText": "Use Smudge Sticks while the Ghost is hunting a player"
+    }
+  }
+}

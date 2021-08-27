@@ -14,6 +14,7 @@
   "ghostOrb": "Ghost orb",
   "spiritBox": "Spirit Box",
   "temperature": "Temperature",
+  "dots": "DOTS",
   "objectives": "Objectives",
   "createRoom": "Create room",
   "copyLink": "Copy link",
@@ -104,6 +105,18 @@
       "strength": "Moves faster in cooler areas.",
       "weakness": "Moves slower in warmer areas.",
       "wikiLink": "https://phasmophobia.fandom.com/wiki/Hantu"
+    },
+    "goryo": {
+      "name": "Goryo",
+      "strength": "Can only be seen with the D.O.T.S Projecter, or with the camera if nobody is nearby.",
+      "weakness": "Doesn't roam from the ghost room much.",
+      "wikiLink": "https://phasmophobia.fandom.com/wiki/Goryo"
+    },
+    "myling": {
+      "name": "Myling",
+      "strength": "Is much quiter when hunting.",
+      "weakness": "Makes more paranormal sounds.",
+      "wikiLink": "https://phasmophobia.fandom.com/wiki/Myling"
     }
   },
   "objectivesList": {
